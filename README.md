@@ -51,5 +51,3 @@ Stylium/
 │   ├── candy.ckpt
 │   └── mosaic.ckpt
 ```
-
-You can train your own models using a dataset such as [WikiArt](https://www.wikiart.org/) or use pretrained ones.
