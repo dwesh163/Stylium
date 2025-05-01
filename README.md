@@ -53,10 +53,3 @@ Stylium/
 ```
 
 You can train your own models using a dataset such as [WikiArt](https://www.wikiart.org/) or use pretrained ones.
-
-## 🛠️ TODO / Future Improvements
-
--   [ ] Add GPU support (via `tf.device`)
--   [ ] Real-time visualization of transformation steps
--   [ ] Style blending / multi-style support
--   [ ] Port to TensorFlow 2.x or PyTorch
